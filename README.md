@@ -1,2 +1,2 @@
 # Exercising
-Just a repo for my practice.
+Just a repo for my practice execrices.
