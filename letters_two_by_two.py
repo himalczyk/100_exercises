@@ -10,6 +10,6 @@ with open('two_letters_alphabet.txt', 'w+') as file:
                 
 #different "smarter" solution
 
-with open("letters.txt", "w") as file:
-    for letter1, letter2 in zip(string.ascii_letters[0::2], string.ascii_letters[1::2]):
-        file.write(letter1 + letter2 + "\n")
+# with open("letters.txt", "w") as file:
+#     for letter1, letter2 in zip(string.ascii_letters[0::2], string.ascii_letters[1::2]):
+#         file.write(letter1 + letter2 + "\n")
